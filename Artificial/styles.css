@@ -72,7 +72,7 @@ header{
 }
 
 .sect3{
-    height: 400px;
+    height: 800px;
     background-image: url('https://images01.nicepage.com/c461c07a441a5d220e8feb1a/386402209ab35bf6ac892d8d/bggradient.jpg');
 }
 
@@ -94,4 +94,12 @@ header{
     position: relative;
     bottom: 268px;
     left: 280px;
+}
+
+.gb{
+height: 200px;
+}
+
+.gba{
+    height: 250px;
 }
