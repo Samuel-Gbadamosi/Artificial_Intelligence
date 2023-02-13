@@ -34,7 +34,7 @@ header{
 }
 
 .mylog{
-    height: 500px;
+    /* height: 500px; */
     width: 100%;
     position: relative;
     bottom: 180px;
@@ -69,4 +69,29 @@ header{
     border: 2px solid #55F9FC;
     color: #8C529E;
     font-weight: 700;
+}
+
+.sect3{
+    height: 400px;
+    background-image: url('https://images01.nicepage.com/c461c07a441a5d220e8feb1a/386402209ab35bf6ac892d8d/bggradient.jpg');
+}
+
+.picfr{
+    height: 400px;
+    position: relative;
+    bottom: 170px;
+    border-radius: 200px;
+}
+
+.picfg{
+    height: 400px;
+    position: relative;
+    bottom: 80px;
+}
+
+.picsmk{
+    height: 126px;
+    position: relative;
+    bottom: 268px;
+    left: 280px;
 }
