@@ -5,10 +5,12 @@
 }
 
 
-header{
-    height: 60px;
+.myhead{
+    height: 56px;
     background-color: #632CB9;
 }
+
+
 
 .sect1{
     padding-top: 48px;
