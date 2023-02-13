@@ -64,6 +64,22 @@
 
         </section>
 
+        <section class="sect3">
+            <div class="row">
+                <div class="col-3">
+                    <img class="picfg" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/c85ab34be8705b1fab4144ea/bubbles.png" alt="">
+
+                </div>
+                <div class="offset-3 col-4">
+                    <img class="picfr" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/5f36d6cc06ba5b1d98224192/2.jpg" alt="">
+                    <img class="picsmk" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/92f8f81839535570bfaea846/circlegradient2.png" alt="">
+
+                </div>
+
+            </div>
+
+        </section>
+
 
     </main>
     <!-- main ends here -->
