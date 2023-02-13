@@ -5,6 +5,12 @@
 }
 
 
+
+
+.navbar-brand{
+    color: white;
+}
+
 .myhead{
     height: 56px;
     background-color: #632CB9;
