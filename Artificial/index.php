@@ -1,3 +1,9 @@
+<?php 
+include('db.php');
+
+
+
+?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -34,9 +40,9 @@
         </li>
  
       </ul>
-      <form class="d-flex" role="search">
-        <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-        <button class="btn btn-outline-success" type="submit">Initiate</button>
+      <form class="d-flex" role="search" method="post">
+        <input class="form-control me-2" type="search" name="keyword" placeholder="Search" aria-label="Search">
+        <button class="btn btn-outline-success" name="keyword" name="submit" value="Search" type="submit">Initiate</button>
       </form>
     </div>
   </div>
