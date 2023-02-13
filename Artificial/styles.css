@@ -1,0 +1,72 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+header{
+    height: 60px;
+    background-color: #632CB9;
+}
+
+.sect1{
+    padding-top: 48px;
+    height: 858px;
+    background-position: right;
+    background-image: url('https://images01.nicepage.com/c461c07a441a5d220e8feb1a/ef047784bc6a5cf2b81a76a6/robotgradientintro2.jpg');
+}
+
+.myfirst{
+    font-size: 113px;
+    color: white;
+    font-weight: bolder;
+}
+
+.gty {
+    font-size: 26px;
+    color: white;
+}
+
+.sect2{
+    height: 500px;
+    background-color: whitered;
+}
+
+.mylog{
+    height: 500px;
+    width: 100%;
+    position: relative;
+    bottom: 180px;
+}
+
+
+.shrek h2{
+    color: #834496;
+    font-size:80px;
+    font-weight: 900;
+}
+
+.tit{
+    height: 15px;
+    width: 74%;
+    background-color: #88FBFD;
+    position: relative;
+    bottom: 17px;
+}
+
+
+.inhuman{
+    width: 600px;
+    font-size: 19px;
+    font-weight: 300;
+}
+
+.mybtn{
+    height: 50px;
+    width: 200px;
+    background-color: white;
+    border: 2px solid #55F9FC;
+    color: #8C529E;
+    font-weight: 700;
+}
