@@ -77,8 +77,25 @@
                 </div>
 
             </div>
+            <div class="row">
+                <div class="offset-2 col-4">
+                    <img class="gb p-1" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/f1c11a0ab3a65ce9a731bc46/788.jpg" alt="">
+                    <img class="gba offset-1 p-1" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/28a09a22432a5aa09842d3d8/Untitled8.jpg" alt="">
+
+                </div>
+             
+              
+                <div class="col-4 mt-4">
+                    <img class="gb p-1" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/5c5f978cdea352f688c8617e/Untitled10.jpg" alt="">
+                    <img class="gb p-1" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/7ab364e65cfd5aeaaa7e0ab0/Untitled9.jpg" alt="">
+
+                </div>
+
+
+            </div>
 
         </section>
+  
 
 
     </main>
