@@ -9,21 +9,6 @@
     <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-GLhlTQ8iRABdZLl6O3oVMWSktQOp6b7In1Zl3/Jr59b6EGGoI1aFkw7cmDA6j6gD" crossorigin="anonymous">
 </head>
 <body>
-    <!-- header starts here -->
-    <!-- <header>
-        <div class="row">
-            <div class="col-4">
-                <p>Welcome</p>
-
-            </div>
-           
-         
-
-        </div>
-
-    </header> -->
-    <!-- header ends here -->
-    <!-- main starts here -->
     <main class="">
         <section class="sect1">
             <div class="row">
