@@ -103,3 +103,14 @@ height: 200px;
 .gba{
     height: 250px;
 }
+
+.secxy{
+    height: 200px;
+    background-color: white;
+}
+
+.secxy h2{
+    color: #834496;
+    font-size: 46px;
+    font-weight: bolder;
+}

@@ -95,6 +95,18 @@
             </div>
 
         </section>
+        <section class="secxy">
+            <div class="row">
+                <div class="offset-2 col-4 pt-4">
+                    <p>TECHNOLOGY NEWS</p>
+                    <h2>Robotic Technologies Continues ..</h2>
+
+                </div>
+
+            </div>
+            
+
+        </section>
   
 
 
