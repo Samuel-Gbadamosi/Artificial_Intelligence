@@ -122,3 +122,21 @@ height: 200px;
     font-size: 46px;
     font-weight: bolder;
 }
+
+
+
+@media (min-width:768px){
+    .picfg{
+        height: 300px;
+        position: relative;
+        top: 20px;
+        
+
+    }
+
+    .picfr{
+        height: 200px;
+        
+    }
+
+}

@@ -54,7 +54,7 @@ include('db.php');
     <main class="">
         <section class="sect1">
             <div class="row">
-                <div class="offset-2 col-5">
+                <div class="offset-2 col-5 col-md-10">
                     <div>
                         <img style="height:178px; width:178px;" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/9d37c6553465529cafa82304/circlegradient2.png" alt="">
                         <h1 class="myfirst">Humans for the future</h1>
@@ -93,7 +93,7 @@ include('db.php');
 
         <section class="sect3">
             <div class="row">
-                <div class="col-3">
+                <div class="col-3 col-md-10">
                     <img class="picfg" src="https://images01.nicepage.com/c461c07a441a5d220e8feb1a/c85ab34be8705b1fab4144ea/bubbles.png" alt="">
 
                 </div>
